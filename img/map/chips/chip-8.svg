@@ -1,0 +1,15 @@
+<svg width="61" height="102" viewBox="0 0 61 102" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <ellipse id="k0irfpwafb" cx="29.6" cy="77.2" rx="29.6" ry="23.6"/>
+        <filter x="-.8%" y="-1.1%" width="101.7%" height="104.2%" filterUnits="objectBoundingBox" id="fjhhg6deoa">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0.749814241 0 0 0 0 0.70275477 0 0 0 1 0" in="shadowOffsetOuter1"/>
+        </filter>
+    </defs>
+    <g transform="translate(.286)" fill="none" fill-rule="evenodd">
+        <use fill="#000" filter="url(#fjhhg6deoa)" xlink:href="#k0irfpwafb"/>
+        <use fill="#5DFFF5" xlink:href="#k0irfpwafb"/>
+        <path d="m29.2 0 23.6 75.2c0 9.683-11.8 19.38-23.6 19.38S5.6 85.085 5.6 75.2L29.2 0z" fill="#00EFE0"/>
+        <circle fill="#00EFE0" cx="29.6" cy="12.8" r="12.8"/>
+    </g>
+</svg>

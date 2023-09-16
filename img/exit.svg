@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <rect fill="#FFF" transform="rotate(90 24 24)" width="48" height="48" rx="24"/>
+        <path d="m33.192 16.222-7.778 7.777 7.778 7.78-1.414 1.413L24 25.414l-7.777 7.778-1.414-1.414 7.778-7.78-7.778-7.776 1.414-1.414L24 22.584l7.778-7.776 1.414 1.414z" fill="#000" fill-rule="nonzero"/>
+    </g>
+</svg>
